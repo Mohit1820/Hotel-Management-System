@@ -96,4 +96,4 @@ I used SQL as database to store records about rooms, user, hotel staff, billing,
 
 
 
-// Created by Mohit Patil // github username : Mohit1820 Repository Name - Hotel Management System.
+// Created by Mohit Patil // github username : Mohit1820 Repository Name - Hotel-Management-System.
